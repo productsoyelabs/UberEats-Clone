@@ -1,10 +1,28 @@
+![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oyelabs?lang=en)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/myoyelabs/)
+[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@oyelabs9119?si=jpMaBUfNigpVCjuf)
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://oyelabs.com/indriver-clone-app-development/">
+    <img src="https://oyelabs.com/wp-content/uploads/2023/05/UberEats-Clone.png" alt="Logo" width="250" height="250">
+  </a>
+
+  <h3 align="center">Launch InDriver Clone</h3>
+
+  <p align="center">
+   An UberEats Clone App built with PHP, Laravel Flutter 3.10.6
+    <br />
+    <a href="https://github.com/oyeclones/indriver_clone/wiki"><strong>Explore the Product »</strong></a>
+    <br />
+    
 ### Launching Your UberEats Clone: A Simple Guide to Start Your Own Food Delivery App
 
-Back in 2014, UberEats began as a small project by Uber to make ordering food as simple as booking a ride. Over the years, it has grown into one of the biggest food delivery platforms in the world, helping millions of people get meals from their favorite restaurants with just a few taps.
+As 2025 is about to end, the food delivery industry continues to redefine convenience. Millions of people now rely on delivery apps to enjoy meals from their favorite restaurants without leaving home, and the demand keeps rising every quarter. New startups are entering the market with fresh ideas, focusing on faster delivery times, eco-friendly packaging, and stronger partnerships with local restaurants.
 
-Today, the food delivery market is more competitive and more exciting than ever. Many new businesses are launching their own platforms, each offering something different such as faster delivery, lower service fees, or stronger support for local restaurants.
-
-If you have been thinking about creating your own UberEats Clone App, this guide will help you get started. You will learn about the key features, how to make your app stand out, and what lessons you can take from UberEats’ journey to success.
+If you’ve been thinking about creating your own “UberEats Clone App”, this guide will help you get started. You will learn about the key features, how to make your app stand out, and what lessons you can take from UberEats’ journey to success.
 
 ### 1. What Is an UberEats Clone App?
 
@@ -16,13 +34,13 @@ Think of it like baking your own cake. You use the same recipe, but you get to d
 
 Your app will let people:
 
-Order food from local restaurants
+* Order food from local restaurants
 
-Track the delivery on a map
+* Track the delivery on a map
 
-Pay online safely
+* Pay online safely
 
-Rate and review their experience
+* Rate and review their experience
 
 So, instead of starting from zero, you use a ready-made structure that saves you time and money.
 
@@ -81,3 +99,8 @@ Starting your UberEats Clone app is an exciting way to step into the food delive
 The best part is that you don’t need to build everything from scratch. You can use a ready-made UberEats Clone and customize it to fit your goals.
 
 So go ahead, plan your app, make it live, and start helping people enjoy their favorite meals faster and easier every day. 🚀
+
+---
+
+## 🌐 Sources  
+[Oyelabs.com – UberEats Clone | Launch Your Own Food Delivery App](https://oyelabs.com/ubereats-clone/)  
